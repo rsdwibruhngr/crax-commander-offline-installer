@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CRAX Commander Free Installer** — CRAX Commander is a free, open-source dual-panel file manager for Windows that supports features like archive management, FTP access, file comparison, and a built-in file viewer. Works without internet access, no account required. Full offline installation.
+**💻 CRAX Commander Free Installer** — CRAX Commander is a free, tabbed dual-pane file manager for Windows with FTP support, archive handling, and a traditional commander-style layout. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About CRAX Commander
 
-CRAX Commander is a free, open-source dual-panel file manager for Windows that supports features like archive management, FTP access, file comparison, and a built-in file viewer. Offering a classic commander-style interface for Windows, CRAX Commander targets power users who want a capable, free dual-pane file manager without the cost of commercial alternatives.
+CRAX Commander is a free, tabbed dual-pane file manager for Windows with FTP support, archive handling, and a traditional commander-style layout. Provides the classic two-panel workflow without a purchase requirement.
 
 ---
 
 ## ❌ Problem: CRAX Commander is hard to access
 
-- **Windows Only** — No cross-platform version
-- **Development Activity** — Limited recent development and updates
-- **Community Resources** — Smaller user community than commercial alternatives
-- **Feature Comparison** — Less feature-rich than commercial dual-pane managers
+- **Windows Only** — Not available on macOS or Linux
+- **Dated Interface** — Visual design has not been modernized significantly
+- **Development Pace** — Updates arrive infrequently
+- **Competition** — Free alternatives like Far Manager and Midnight Commander on other platforms
 
 ---
 
@@ -121,7 +121,7 @@ CRAX Commander is a free, open-source dual-panel file manager for Windows that s
 
 ---
 
-**CRAX Commander Free Installer** — CRAX Commander is a free, open-source dual-panel file manager for Windows that supports features like archive management, FTP access, file comparison, and a built-in file viewer. Install without internet connection today!
+**CRAX Commander Free Installer** — CRAX Commander is a free, tabbed dual-pane file manager for Windows with FTP support, archive handling, and a traditional commander-style layout. Install without internet connection today!
 
 <div align="center">
 
